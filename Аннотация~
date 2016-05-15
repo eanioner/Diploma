@@ -1,11 +1,19 @@
-В данной работе рассматривается проблема контекстной обработки данных, полученных из социальных сетей. В качестве данных используются текстовые сообщения, генерируемые пользователями в сообществах социальных сетей. Контекстная обработка подразумевает выделение тематик и концепций в коллекции текстовых сообщений, что позволяет проводить анализ сообществ, из которых эти сообщения были взяты. Результаты такого анализа имеют существенное прикладное значение, например, мониторинг заболеваний или политических взглядов групп пользователей социальных сетей.
+В данной работе рассматривается проблема контекстной обработки данных, полученных из социальных сетей. В качестве данных используются текстовые сообщения, генерируемые пользователями в сообществах социальных сетей. Контекстная обработка подразумевает выделение тематик и концепций в коллекции текстовых сообщений, что позволяет проводить анализ сообществ, из которых эти сообщения были взяты. Результаты такого анализа имеют существенное прикладное значение, например, мониторинг мнений или политических взглядов групп пользователей социальных сетей.
 
-Целью данной работы является исследование и применение методов тематического моделирования для выполнения контекстной обработки данных. Для достижения указанной цели решаются задачи сбора и предобработки данных из социальных сетей, выбора и построения тематической модели, оценки ее качества, а также анализа полученных результатов. Выполнение этих задач включает в себя реализацию соответсвующих программных модулей. Экспериментальная часть работы связана с построением тематической модели на основе данных, полученных из сообществ социальной сети, и подбором параметров этой модели.
+Целью данной работы является исследование и применение методов тематического моделирования для выполнения контекстной обработки данных. Для достижения указанной цели решаются задачи сбора и предобработки данных из социальных сетей, выбора и построения тематической модели, оценки ее качества, а также анализа полученных результатов. Выполнение этих задач включает в себя реализацию соответствующих программных модулей. Экспериментальная часть работы связана с построением тематической модели на основе данных, полученных из сообществ социальной сети, и подбором параметров этой модели.
 
 Результаты проведенного исследования показывают, что использование идей тематического моделирования для контекстной обработки текстовой информации из сообществ социальной сети позволяет выделить их ключевые концепции и тематики.
 
 
-In the paper problem of context-based processing of social media texts is considered. 
+In the work problem of context-based processing of social media texts is considered. Text messages generating by users in social networking communities are used as the data to be processed. Context-based processing is aimed at obtaining topics and concepts for text document collections and used for community social network analysis. The results of this analysis have a significant practical importance, for example, monitoring the opinions or policies of social network users.
+
+The aim of the work is studying and application of topic modeling techniques for context-based data processing. To achieve the aim the following problems are considered: collection and pre-processing of data from social networks, the selection and construction of topic model, quality evaluation and analysis of the results. These problems include the implementation of appropriate software modules. The experimental part of the work associated with the construction of topic model based on the data obtained from social networking communities, and the selection of the parameters of this model.
+
+According to the result of the study it is clear that the use of topic modeling ideas for context-based processing of information from social networking communities allows to highlight their key topics and concepts.
+
+
+
+
 
 
 
